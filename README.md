@@ -28,7 +28,7 @@
   
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 ![Flask](https://img.shields.io/badge/flask%20-%2307405e.svg?&style=for-the-badge&logo=flask&logoColor=white)
 <img src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e18182ab1025a63c984f248_RGB_Logo_Horizontal_Color_Dark_Bg-p-2000.png" height="28">
 
