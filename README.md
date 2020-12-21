@@ -22,7 +22,6 @@
 ![Tensorflow](https://img.shields.io/badge/TensorFlow%20-%23430098.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab%20-%2320232a.svg?&style=for-the-badge&logo=google&logoColor=white)
     </td>
     <td>
@@ -59,27 +58,4 @@
   </tr>
  
 </table>
-
-<!--
-**rlew631/rlew631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-update the matlab colors 
-fix the streamlit logo by using the svg from the site
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-look at https://github.com/anuraghazra/github-readme-stats for more options
-
-put in a streamlit badge for web dev stuff
--->
-
 
