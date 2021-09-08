@@ -31,7 +31,7 @@
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 ![Flask](https://img.shields.io/badge/flask%20-%2307405e.svg?&style=for-the-badge&logo=flask&logoColor=white)
-<img src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e18182ab1025a63c984f248_RGB_Logo_Horizontal_Color_Dark_Bg-p-2000.png" height="28">
+
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
