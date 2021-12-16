@@ -46,7 +46,7 @@
   <td>
    
    ![GCP](https://img.shields.io/badge/googlecloud%20-%23E34F26.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white)
-   ![BigQuerry](https://img.shields.io/badge/gbigquerry%20-%23E34F26.svg?&style=for-the-badge&logo=big%20querry&logoColor=white)
+   ![BigQuerry](https://img.shields.io/badge/Big%20Querry%20-%23E34F26.svg?&style=for-the-badge&logo=bq&logoColor=white)
 
   </td>
   <td>
