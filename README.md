@@ -13,6 +13,7 @@
 ![C++](https://img.shields.io/badge/C++%20-brown.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=for-the-badge&logo=Mathworks)
+![GCP](https://img.shields.io/badge/googlecloud%20-%23E34F26.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white)
 
 ![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
