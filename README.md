@@ -13,7 +13,6 @@
 ![C++](https://img.shields.io/badge/C++%20-brown.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=for-the-badge&logo=Mathworks)
-![GCP](https://img.shields.io/badge/googlecloud%20-%23E34F26.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white)
 
 ![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
@@ -40,15 +39,15 @@
     </td>
  </tr>
  <tr>
-    <th>Operating Systems</th>
+    <th>Cloud Tools</th>
     <th>Embedded Systems</th>
  </tr>
  <tr>
   <td>
    
-   ![MacOS](https://img.shields.io/badge/mac-os?logo=apple&logoColor=white&color=999999&style=for-the-badge)
-   ![Ubuntu](https://img.shields.io/badge/-ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)
-   ![Debian](https://img.shields.io/badge/-debian-A81D33?style=for-the-badge&logo=debian)
+   ![GCP](https://img.shields.io/badge/googlecloud%20-%23E34F26.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white)
+   ![BigQuerry](https://img.shields.io/badge/gbigquerry%20-%23E34F26.svg?&style=for-the-badge&logo=big%20querry&logoColor=white)
+
   </td>
   <td>
  
